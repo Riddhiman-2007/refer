@@ -1,0 +1,43 @@
+*{
+  border:solid ; 
+  color: white;
+}
+.main{
+    background-color:#451152;
+    margin: 40px;
+    height: "100%";
+}
+.heading{
+    font-size: 50px;
+    background-color:grey;
+    margin: 40px;
+    font-family: Arial;
+    font-style: italic  ;
+    border-color: grey;
+}
+.heading h1{
+    text-align: center;
+    background-color: black;
+    margin: 40px;
+
+}
+.menu{
+    text-align: center;
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.menu p{
+    border: white; 
+    color: grey;
+    font-size: 40px;
+}
+.menu a{
+    margin: 40px;
+    font-size: 40px;
+}
+.info h1{
+    color: black;
+    border:white
+}
